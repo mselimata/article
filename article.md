@@ -18,5 +18,9 @@ This is the most amazing figure of git.
 Figure 1. Git figure.
 # Results
 In this research we found that git is amazing, awesome, incredible system for version control of files.
+
 # Conclusions
 We conclude that using git and github for version control of files and collaborating remotly with a team of researchers is a gold standard and a necessary step to open science.
+
+Weather is nice in St Sabastian
+Weather is snowy in Ankara
